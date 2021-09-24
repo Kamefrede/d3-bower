@@ -1,0 +1,20 @@
+{
+  "name": "d3-bower",
+  "version": "3.4.1",
+  "description": "<a href=\"https://d3js.org\"><img src=\"https://d3js.org/logo.svg\" align=\"left\" hspace=\"10\" vspace=\"6\"></a>",
+  "main": "d3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamefrede/d3-bower.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamefrede/d3-bower/issues"
+  },
+  "homepage": "https://github.com/Kamefrede/d3-bower#readme"
+}
